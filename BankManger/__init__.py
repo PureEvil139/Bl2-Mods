@@ -5,7 +5,7 @@ from Mods.ModMenu import EnabledSaveType, Hook, ModTypes, Options, RegisterMod, 
 
 class BankManager(SDKMod):
     Name: str = "BankManager"
-    Author = "PureEvil139"
+    Author = "PureEvil139/FromDarkHell"
     Description: str = "Customize the size of your character's bank on the fly!"
     Version: str = "1.1"
 
