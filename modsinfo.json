@@ -2,21 +2,19 @@
   "defaults": {
     "authors": "PureEvil139",
     "source": "https://github.com/PureEvil139/Bl2-Mods",
-    "supports": ["BL2", "TPS", "AoDK"],
+    "supports": ["BL2", "TPS", "AoDK"]
   },
-
-{
   "mods": [
     {
-      "name": "[BankManger]",
-      "authors": "[PureEvil139/FromDarHell]",
-      "description": "[Customize the size of your character’s backpack on the fly]",
-      "types": ["[GamePlay]"],
+      "name": "BankManger",
+      "authors": "PureEvil139/FromDarHell",
+      "description": ["Customize the size of your character’s backpack on the fly"],
       "supports": ["BL2", "TPS", "AoDK"],
-      "latest": "[1.0]",
+      "latest": "1.0",
       "versions": {
          "1.0": "https://github.com/PureEvil139/Bl2-Mods/blob/9bd540a8b10b607d1584dd1459132d451c3a3e55/BankManager/BankManager.zip",
+        
       },
-
+   ]
 }
  
