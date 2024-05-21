@@ -8,7 +8,7 @@
     "mods": [
       {
         "name": "BankManager",
-        "authors": "PureEvil139/FromDarHell",
+        "authors": "PureEvil139/FromDarkHell",
         "description": ["Customize the size of your character’s backpack on the fly"],
         "types": ["Gameplay"],
         "latest": "1.0",
