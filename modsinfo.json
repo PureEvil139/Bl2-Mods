@@ -10,7 +10,6 @@
         "name": "BankManager",
         "authors": "PureEvil139/FromDarHell",
         "description": ["Customize the size of your character’s backpack on the fly"],
-        "tagline": "Adds player scaling to Normal Mode and TVHM.",
         "types": ["Gameplay"],
         "latest": "1.0",
         "supports":  [ "BL2", "TPS", "AoDK" ],
@@ -22,3 +21,5 @@
       }  
     ]
   }
+       
+       
